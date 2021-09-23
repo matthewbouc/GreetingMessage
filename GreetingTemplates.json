@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "message": "{salutation} {firstName}, and welcome to {company}! Room {roomNumber} is now ready for you.  Enjoy your stay, and let us know if you need anything."
+    },
+    {
+      "id": 2,
+      "message": "{salutation} {firstName}, and welcome to {company}! Room {roomNumber} is now ready for you.  We hope you enjoy your stay in {city}."
+    },
+    {
+      "id": 3,
+      "message": "{salutation} {firstName}.  We've prepared Room {roomNumber} for you.  Please stop by the front desk to check-in."
+    },
+    {
+      "id": 4,
+      "message": "{salutation} {firstName} {lastName}.  Welcome to {city}!  We've finished preparing Room {roomNumber} for your stay.  Please feel free to contact us about anything - The {company} Team"
+    }
+]
